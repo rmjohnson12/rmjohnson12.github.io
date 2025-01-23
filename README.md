@@ -14,7 +14,9 @@ Description of this repository: This repository will hold my assignments from my
 
 I graduated from ncsu back in 2008 with a degree in mathematics.
 
-I worked for SAS for 8 years and my last job was at vmware. After getting laid off by vmware, I had a really hard time finding a job which is why I'm now back in school! I also really enjoy playing Magic the Gathering.
+I worked for SAS for 8 years and my last job was at vmware. After getting laid off by vmware, I had a really hard time finding a job which is why I'm now back in school! 
+
+I also really enjoy playing Magic the Gathering.
 
 
 ## Websites that I frequently use
