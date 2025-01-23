@@ -22,7 +22,7 @@ I also _really_ enjoy playing Magic the Gathering.
 ## Websites that I frequently use
 
 * [National and local weather](weather.com)
-I am a weather geek so the weather.com website is very useful to me and something that I visit daily It has been particularly useful these last few days with the snow!
+I am a weather geek so the weather.com website is very useful to me and something that I visit daily. It has been particularly useful these last few days with the snow!
 
 * [News and Observer](https://www.newsobserver.com)
 I am also very interested in local news and the news and observer is pretty good for that kind of thing. And it also allows me to cross refernce their weather data with the weather data from weather.com!
