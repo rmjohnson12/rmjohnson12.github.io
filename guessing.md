@@ -16,3 +16,6 @@ flowchart TD
 ## Step by step guide of my Guessing Game Diagram
 
 
+Now we check if the input is valid:
+*   If the user’s input is valid-- a numeric value that’s within range-- then proceed to the next step.
+*	If the user’s input is invalid then display an error message and go back to prompting the user again.
