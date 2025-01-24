@@ -29,9 +29,9 @@ Check if the user's input is valid:
 
 
 Check whether or not the guess is correct?:
-*	IF the user’s guess is _accurate_, then display a **success** message and go to the end of the game.
-*	IF the user’s guess is _too high_, then I will inform the user and **ask the user to guess again**.
-*	IF the user’s guess is _too low_, then I will inform the user and **ask the user to guess again**.
+*	IF the user’s guess is **_accurate_**, then display a **success** message and go to the end of the game.
+*	IF the user’s guess is **_too high_**, then I will display a message letting the user know that their value failed for being **too high** and I will go back to the prompt to **ask the user to guess again**.
+*	IF the user’s guess is **_too low_**, then I will display a message letting the user know that their value failed for being **too low** and I will go back to the prompt to **ask the user to guess again**.
 
 
 **End**: The program concludes once the user has correctly guessed the value!
