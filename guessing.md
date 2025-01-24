@@ -6,11 +6,11 @@ flowchart TD
     C -- "Yes" --> D{Is the user's guess correct?}
     C -- "No" --> E[Display bad input]
     E --> B
-    D -- "Too High" --> F[Display is too high]
+    D -- "Guess was too High" --> F[Display the user's number is too high]
     F --> B
-    D -- "Too Low" --> G[Display is to low]
+    D -- "Guess was too Low" --> G[Display the user's number is too low]
     G --> B
-    D -- "Correct" --> H[Display the user is correct!]
+    D -- "Correct!" --> H[Display the user is correct!]
     H --> End([End])
 ```
 ## Step by step guide for my Guessing Game Diagram
@@ -23,12 +23,12 @@ Create a Random Number: The program then creates a random number within a certai
 The user is asked for their guess.
 
 
-Now we check if the user's input is valid:
+Check if the user's input is valid:
 *	IF the user’s input is _valid_-- a numeric value that’s within range-- then proceed to the next step.
 *	IF the user’s input is _invalid_ then display an error message and go back to the beginning and prompt the user for another guess.
 
 
-Now, we check wheather or not the guess is correct?:
+Check whether or not the guess is correct?:
 *	IF the user’s guess is _accurate_, then display a **success** message and go to the end of the game.
 *	IF the user’s guess is _too high_, then I will inform the user and **ask the user to guess again**.
 *	IF the user’s guess is _too low_, then I will inform the user and **ask the user to guess again**.
