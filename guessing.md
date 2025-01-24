@@ -6,9 +6,9 @@ flowchart TD
     C -- "Yes" --> D{Is the user's guess correct?}
     C -- "No" --> E[Bad input]
     E --> B
-    D -- "Guess was too High" --> F[The user's number is too high]
+    D -- "Guess was too High" --> F[/The user's number is too high/]
     F --> B
-    D -- "Guess was too Low" --> G[The user's number is too low]
+    D -- "Guess was too Low" --> G[\The user's number is too low\]
     G --> B
     D -- "Correct!" --> H[The user is correct!]
     H --> End([End])
