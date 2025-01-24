@@ -20,7 +20,7 @@ flowchart TD
 Create a Random Number: The program then creates a random number within a certain range.
 
 
-Prompt: The user is asked to input thier guess.
+Prompt: The user is asked to input their guess.
 
 
 Check if the user's input is valid:
