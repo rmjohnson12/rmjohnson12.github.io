@@ -4,7 +4,7 @@ flowchart TD
     A --> B[Ask the user for a guess]
     B --> C{Is the user's input a valid value?}
     C -- "Yes" --> D{Is the user's guess correct?}
-    C -- "No" --> E[Bad input]
+    C -- "No" --> E[/Bad input\]
     E --> B
     D -- "Guess was too High" --> F[/The user's number is too high/]
     F --> B
