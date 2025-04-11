@@ -1,13 +1,13 @@
 function fetchGradeData() {
-    console.log("fetchGradeData() called - this will eventually fetch data from PostgreSQL.");
+    console.log("fetching grade data...");
     // Placeholder for future database interaction
 }
 
 function populateGradebook() {
-    console.log("populateGradebook() called - this will eventually insert rows into the table.");
+    console.log("Populating gradebook with data:, data");
     // Placeholder for future logic to populate table
 }
 
-// For testing purposes, call both functions when the script loads
-fetchGradeData();
-populateGradebook();
+//TODO remove this
+const gradeData=fetchGradeData();
+populateGradebook(gradeData);
