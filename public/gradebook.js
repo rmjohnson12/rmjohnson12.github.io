@@ -54,7 +54,9 @@ function populateGradebook(data) {
     });
 }
 
-
+window.onload = function() {
+    fetchGradeData();
+};
 //TODO remove this
 //const gradeData=fetchGradeData();
 //populateGradebook(gradeData);
