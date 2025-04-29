@@ -57,4 +57,4 @@ function populateGradebook(data) {
 
 //TODO remove this
 //const gradeData=fetchGradeData();
-//populateGradebook(gradeData);
+populateGradebook(gradeData);
