@@ -42,7 +42,8 @@ function populateGradebook(data) {
         columns.grade.appendChild(
             // Just put the name in text; you could be fancy and figure out the letter grade here
             // with either a bunch of conditions, or a JavaScript "switch" statement
-            document.createTextNode(assignment.total_grade)
+            //document.createTextNode(assignment.total_grade)
+			document.createTextNode(assignment.grade)
         );
 
         // Add the table data columns to the table row
