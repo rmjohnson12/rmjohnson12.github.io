@@ -45,7 +45,8 @@ router.get('/api/grades',function(req, res){
             result.rows.forEach( 
                     function(row){
                         console.log(`Student Name: ${row.first_name} ${row.last_name}`);
-                        console.log(`Grade: ${row.total_grade}`);
+						console.log(`Grade: ${row.grade}`);
+                        //console.log(`Grade: ${row.total_grade}`);
                     }
             ); // End of forEach
             
