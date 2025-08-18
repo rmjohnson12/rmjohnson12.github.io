@@ -60,5 +60,4 @@ window.onload = function() {
 
 //TODO remove this
 //const gradeData=fetchGradeData();
-//const gradeData=fetchGradeData();
 //populateGradebook(gradeData);
