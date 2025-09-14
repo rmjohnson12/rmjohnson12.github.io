@@ -3,8 +3,8 @@ Name: Ronnie Johnson
 
 Email address: rmjohnson12@my.waketech.edu  
 
-Description of this account:
+### Description of this account:
 This is my wake tech school account. This is my first GitHub account.  
 
-Description of this repository: 
+### Description of this repository: 
 This repository will hold my assignments from my databases and programming class. 
